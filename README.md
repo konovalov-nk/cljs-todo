@@ -2,6 +2,12 @@
 
 Simple todo app used in educational purposes.
 
+## Prerequisites
+
+* Install [Leiningen](http://leiningen.org/#install)
+
+* You need java runtime installed: `sudo apt-get install default-jre`
+
 ## Setup
 
 To get an interactive development environment run:
